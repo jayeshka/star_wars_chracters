@@ -30,4 +30,4 @@ python ApiHelper.py <page_number> <filepath>
 
 ## Authors
 
-* **Jayesh Kariya** - *Initial work* - [PurpleBooth](https://github.com/jayeshka)
+* **Jayesh Kariya** - *Initial work* -(https://github.com/jayeshka)
