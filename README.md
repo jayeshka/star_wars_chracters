@@ -25,7 +25,7 @@ To run the test folowing command should be executed.
 
 Usage example: ApiHelper.py page_number, filepath
 
-python ApiHelper.py <page_number> <filepath>
+**python ApiHelper.py page_number filePath**
 
 
 ## Authors
